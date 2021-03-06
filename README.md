@@ -1,2 +1,16 @@
-# simple_compressor_pdf
-Compresor simple de pdfs, compresiones sin limite de pdf y sin perder calidad.
+# Simple Compressor PDF
+- Es un programa simple y básico, que como lo dice el nombre, reduce el "peso" de los archivos pdfs.
+
+## Dependencias:
+- Python
+			https://www.python.org/downloads/
+- Ghostscript
+			https://www.ghostscript.com/download/gsdnld.html
+
+
+
+## Uso:
+```shell
+# python simple_compresor_pdf.py
+```
+
